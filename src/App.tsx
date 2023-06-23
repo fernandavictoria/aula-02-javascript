@@ -1,8 +1,7 @@
-function App() {
-
+export function App() {
   return (
-    <h1>Aula React</h1>
+    <h1>Olá</h1>
   )
 }
 
-export default App
+ 
